@@ -1,0 +1,13 @@
+58c64a39e4c7c15f26471a679c530354 *DESCRIPTION
+a98cc04c77cd8fbd95adae7b63ec102c *LICENSE
+b2736a9b4f3c0f29a8dae3391f45d072 *NAMESPACE
+f45189f23740a4337228e9e90f9b575d *R/check.R
+fbd88f1ec369f81ad4657a6e3a7c67b2 *R/permuteTies.R
+9098bd266957936cb073cf6e287f817f *R/tau.R
+6ba2d1a998e0b84ded84dc0181b1891a *R/tauAP.R
+49ec847fb179edfd48c1a67105f17571 *man/tau.Rd
+8185a0eeb4ff483f0b57003417e87ed8 *man/tauAP.Rd
+99d46ee40a722e727c2a5bd38f784fd2 *tests/testthat.R
+a4116b6024cb2676ff76941df3ea8396 *tests/testthat/helper_data.R
+c28329595e8bc2c91ecd7c012e205962 *tests/testthat/test_tau.R
+7392dde9d90279c5bc4f1a0b43aabf52 *tests/testthat/test_tauAP.R
